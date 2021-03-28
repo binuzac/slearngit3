@@ -1,1 +1,2 @@
 Git and Github training material
+Adding some data for mixed reset
